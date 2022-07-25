@@ -1,0 +1,322 @@
+[
+    {
+        "pergunta": "Tipo de Mágica ? Ashiok, Dissolvedor de sonhos (Ashiok, Dream Render).",
+        "escolha1": "Criatura",
+        "escolha2": "Artefato",
+        "escolha3": "Planinauta",
+        "escolha4": "Feitiço",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Tipo de Permanente ? Bastião de Karn (Karn's Bastion).",
+        "escolha1": "Criatura",
+        "escolha2": "Planinauta",
+        "escolha3": "Encantamento",
+        "escolha4": "Terreno",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Custo de Mana ? Cidadela de Nicol Bolas (Bolas's Citadel).",
+        "escolha1": "3BBB",
+        "escolha2": "4UBR",
+        "escolha3": "5B",
+        "escolha4": "2BBB",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Cor ? Iniciar Plano Final (Commence the Endgame).",
+        "escolha1": "Preto",
+        "escolha2": "Azul",
+        "escolha3": "Vermelho",
+        "escolha4": "Branco",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Nome ? 'Cada criatura causa a si própria uma quantidade de dano igual ao seu poder.'",
+        "escolha1": "Palma Defletora (Deflecting Palm)",
+        "escolha2": "Labareda Solar (Solar Blaze)",
+        "escolha3": "Inferno (Inferno)",
+        "escolha4": "Bola de Fogo (Fireball)",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Impressa pela 1° vez ? Necrobrotamento (Deathsprout).",
+        "escolha1": "Terras Natais",
+        "escolha2": "Dominaria",
+        "escolha3": "Invasão",
+        "escolha4": "A Guerra da Centelha",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Ano de Lançamento ? Strix do Palco Celeste (Sky Theater Strix).",
+        "escolha1": "2019",
+        "escolha2": "2020",
+        "escolha3": "2018",
+        "escolha4": "2021",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Tipo de Criatura ? Árbitro Silencioso (Silent Arbiter).",
+        "escolha1": "Constructo",
+        "escolha2": "Myr",
+        "escolha3": "Clérigo",
+        "escolha4": "Nômade",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Tipo de Mágica ? Casulo de Estase (Stasis Cocoon).",
+        "escolha1": "Artefato",
+        "escolha2": "Terreno",
+        "escolha3": "Encantamento",
+        "escolha4": "Criatura",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Tipo de Permanente ? Eixo das Eras (Eon Hub).",
+        "escolha1": "Terreno",
+        "escolha2": "Artefato",
+        "escolha3": "Encantamento",
+        "escolha4": "Feitiço",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Custo de Mana ? Portal Possuído (Possessed Portal).",
+        "escolha1": "7",
+        "escolha2": "5BB",
+        "escolha3": "4RB",
+        "escolha4": "8",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Cor ? Adepto da Junção (Joiner Adept).",
+        "escolha1": "Verde",
+        "escolha2": "Azul",
+        "escolha3": "Branco",
+        "escolha4": "Dourado",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Texto ? Fulminar (Vanquish).",
+        "escolha1": "Destrua a criatura alvo bloqueada",
+        "escolha2": "Destrua a criatura alvo desvirada",
+        "escolha3": "Destrua a criatura alvo bloqueadora",
+        "escolha4": "Destrua a criatura alvo virada",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Nome ? 'Destrua o artefato alvo.'",
+        "escolha1": "Justiça de Tel-Jilad (Tel-Jilad Justice)",
+        "escolha2": "Destruição Divina (Divine Smite)",
+        "escolha3": "Estilhaçamento d'Alma (Soul Shatter)",
+        "escolha4": "Pilhagem (Pillage)",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Ano de Lançamento ? Mago das Quinquilharias (Trinket Mage).",
+        "escolha1": "2010",
+        "escolha2": "2004",
+        "escolha3": "2016",
+        "escolha4": "2006",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Impressa pela 1° vez ? Ratos Implacáveis (Relentless Rats).",
+        "escolha1": "Alvorecer",
+        "escolha2": "Magic 2011",
+        "escolha3": "Décima Edição",
+        "escolha4": "A Quinta Aurora",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Tipo de Mágica ? Algas Disseminadas (Spreading Algae).",
+        "escolha1": "Criatura",
+        "escolha2": "Encantamento",
+        "escolha3": "Mágica Instantânea",
+        "escolha4": "Terreno",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Tipo de Criatura ? Bruxa Mecânica (Witch Engine).",
+        "escolha1": "Horror",
+        "escolha2": "Bruxa",
+        "escolha3": "Besta",
+        "escolha4": "Xamã",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Tipo de Criatura ? Testemunha Eterna (Eternal Witness).",
+        "escolha1": "Druida",
+        "escolha2": "Elfo",
+        "escolha3": "Xamã",
+        "escolha4": "Fractius",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Custo de Mana ? Zelote de Serra (Serra Zealot).",
+        "escolha1": "1W",
+        "escolha2": "W",
+        "escolha3": "3W",
+        "escolha4": "2W",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Tipo de Permanente ? Acrólita de Opala (Opal Acrolith).",
+        "escolha1": "Terreno",
+        "escolha2": "Artefato",
+        "escolha3": "Criatura",
+        "escolha4": "Encantamento",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Cor ? Antagonismo (Antagonism).",
+        "escolha1": "Vermelho",
+        "escolha2": "Preto",
+        "escolha3": "Azul",
+        "escolha4": "Verde",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Nome ? 'Compre dois cards e depois descarte um card.'",
+        "escolha1": "Tempestade Cerebral (Brainstorm)",
+        "escolha2": "Pilhagem Infiel (Faithless Looting)",
+        "escolha3": "Catalogar (Catalog)",
+        "escolha4": "Braçada Difusora (Scattering Stroke)",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Ano de Lançamento ? Coagir (Duress).",
+        "escolha1": "1999",
+        "escolha2": "1998",
+        "escolha3": "1997",
+        "escolha4": "1996",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Impressa pela 1° vez ? Demo da Cratera (Crater Hellion).",
+        "escolha1": "Quarta Edição",
+        "escolha2": "Eternal Masters",
+        "escolha3": "Commander 2013",
+        "escolha4": "A Saga de Urza",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Tipo de Criatura ? Abominação de Etherium (Etherium Abomination).",
+        "escolha1": "Horror",
+        "escolha2": "Goblin",
+        "escolha3": "Besta",
+        "escolha4": "Gigante",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Tipo de Mágica ? Conjuração Bifurcada (Cloven Casting).",
+        "escolha1": "Mágica Instantânea",
+        "escolha2": "Feitiço",
+        "escolha3": "Encantamento",
+        "escolha4": "Artefato",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Tipo de Permanente ? Garras-Duplas de Marisi (Marisi's Twinclaws).",
+        "escolha1": "Artefato",
+        "escolha2": "Criatura",
+        "escolha3": "Encantamento",
+        "escolha4": "Terreno",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Custo de Mana ? Mago Interferidor (Meddling Mage).",
+        "escolha1": "1UW",
+        "escolha2": "UW",
+        "escolha3": "1WU",
+        "escolha4": "WU",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Cor ? Nêmesis da Razão (Nemesis of Reason).",
+        "escolha1": "Dourado",
+        "escolha2": "Verde",
+        "escolha3": "Incolor",
+        "escolha4": "Azul",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Nome ? 'Cascata.'",
+        "escolha1": "Vorme de Trincheira (Trench Wurm)",
+        "escolha2": "Vorme Autóctone (Autochthon Wurm)",
+        "escolha3": "Vorme Recruta (Enlisted Wurm)",
+        "escolha4": "Vorme Argothiano (Argothian Wurm)",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Impressa pela 1° vez ? Findar (Terminate).",
+        "escolha1": "Saga de Urza",
+        "escolha2": "Conjunção",
+        "escolha3": "Quinta Aurora",
+        "escolha4": "Odisseia",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Ano de Lançamento ? Funeral Mental (Mind Funeral).",
+        "escolha1": "2004",
+        "escolha2": "1999",
+        "escolha3": "2014",
+        "escolha4": "2009",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Tipo de Criatura ? Facção Vendilion (Vendilion Clique).",
+        "escolha1": "Elfo",
+        "escolha2": "Inseto",
+        "escolha3": "Mago",
+        "escolha4": "Ent",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Tipo de Mágica ? Reatravessar as Trilhas (Recross the Paths).",
+        "escolha1": "Encantamento",
+        "escolha2": "Artefato",
+        "escolha3": "Feitiço",
+        "escolha4": "Mágica Instantânea",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Tipo de Permanente ? Câmara do Oráculo (Oracle's Vault).",
+        "escolha1": "Terreno",
+        "escolha2": "Encantamento",
+        "escolha3": "Criatura",
+        "escolha4": "Artefato",
+        "resposta": 4
+    },
+    {
+        "pergunta": "Custo de Mana ? Fim Glorioso (Glorious End).",
+        "escolha1": "2R",
+        "escolha2": "1R",
+        "escolha3": "3R",
+        "escolha4": "4R",
+        "resposta": 1
+    },
+    {
+        "pergunta": "Cor ? Oráculo Naga (Naga Oracle).",
+        "escolha1": "Verde",
+        "escolha2": "Azul",
+        "escolha3": "Dourado",
+        "escolha4": "Incolor",
+        "resposta": 2
+    },
+    {
+        "pergunta": "Nome ? 'Reciplar U.'",
+        "escolha1": "Serpente Biolume (Biolume Serpent)",
+        "escolha2": "Serpente da Caveira (Skullwinder)",
+        "escolha3": "Serpente do Rio (River Serpent)",
+        "escolha4": "Serpente do Kukemssa (Kukemssa Serpent)",
+        "resposta": 3
+    },
+    {
+        "pergunta": "Ano de Lançamento ? Costa de Yavimaya (Yavimaya Coast).",
+        "escolha1": "1999",
+        "escolha2": "2000",
+        "escolha3": "2002",
+        "escolha4": "2001",
+        "resposta": 4
+    }
+]

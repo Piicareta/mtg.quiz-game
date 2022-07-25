@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+:root {
+    background-color: rgb(255, 249, 202);
+    font-size: 62.5%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgb(20,20,20);
+    font-family: 'Patua One', cursive;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 5.4rem;
+    margin-bottom: 5rem;
+}
+
+h2 {
+    font-size: 4.2rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 2.8rem;
+    font-weight: 500;
+}
+
+/* Ultilidades */
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.container > * {
+    width: 100%;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Botoes */
+
+.btn {
+    font-size: 2rem;
+    padding: 1.5rem 0;
+    width: 22rem;
+    text-align: center;
+    font-weight: 700;
+    border: .4rem solid rgb(20,20,20);
+    border-radius: 1.5rem;
+    margin-bottom: 3rem;
+    text-decoration: none;
+    color: rgb(20,20,20);
+    background-color: rgb(255, 222, 180);
+    transition: 300ms ease-in-out;
+}
+
+.save:hover {
+    cursor: pointer;
+    letter-spacing: .5rem;
+    background-color: rgb(189, 46, 255);
+    box-shadow: .5rem .5rem 0 rgb(189, 46, 255);
+    transform: translateY(-.2rem);
+}
+
+.jogarDenovo:hover {
+    cursor: pointer;
+    letter-spacing: .2rem;
+    background-color: rgb(38, 255, 121);
+    box-shadow: .5rem .5rem 0 rgb(38, 255, 121);
+    transform: translateY(-.2rem);
+}
+
+.inicio:hover {
+    cursor: pointer;
+    letter-spacing: .5rem;
+    background-color: rgb(255, 147, 46);
+    box-shadow: .5rem .5rem 0 rgb(255, 147, 46);
+    transform: translateY(-.2rem);
+}
+  
+.jogar:hover {
+    cursor: pointer;
+    letter-spacing: .5rem;
+    background-color: rgb(130, 108, 255);
+    box-shadow: .5rem .5rem 0 rgb(130, 108, 255);
+    transform: translateY(-.2rem);
+}
+
+.placar:hover {
+    cursor: pointer;
+    letter-spacing: .5rem;
+    background-color: rgb(251, 255, 20);
+    box-shadow: .5rem .5rem 0 rgb(251, 255, 20);
+    transform: translateY(-.2rem);
+}
+  
+.btn[disabled]:hover {
+    cursor: not-allowed;
+    background-color: rgb(200, 200, 200);
+    box-shadow: .5rem .5rem 0 rgb(200, 200, 200);
+    transform: none;
+}
+
+/* Formulario */
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    margin-bottom: 3rem;
+    width: 14rem;
+    font-size: 2rem;
+    text-align: center;
+    padding: 1.5rem;
+    outline: none;
+    border-radius: 1.5rem;
+    background-color: rgb(255, 222, 180);
+    border: .4rem solid rgb(20,20,20);
+    transition: 300ms ease-in-out;
+}
+
+input:focus {
+    width: 22rem;
+    box-shadow: .5rem .5rem 0 rgb(30,30,30);
+    background-color: rgb(255, 255, 255);
+}
+
+input::placeholder {
+    opacity: 1;
+    transition: 300ms ease-in-out;
+}
+
+input:focus::placeholder {
+    letter-spacing: 1rem;
+    opacity: 0;
+}
+
+#placarFinal {
+    text-align: center;
+}

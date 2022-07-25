@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+* {
+    font-family: 'Patua One', cursive;
+}
+
+.escolha-container {
+    display: flex;
+    margin-bottom: 2rem;
+    width: 100%;
+    font-size: 2rem;
+    border-radius: 1.5rem;
+    border: .4rem solid rgb(20,20,20);
+    transition: 200ms ease-in-out;
+}
+
+.escolha-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: rgb(178, 164, 255);
+    color: rgb(20,20,20);
+    border-radius: 1rem 0 0 1rem;
+}
+
+.escolha-texto {
+    padding: 1.5rem;
+    width: 100%;
+    background-color: rgb(255, 222, 180);
+    border-radius: 0 1rem 1rem 0;
+    transition: 300ms;
+}
+
+.escolha-container:hover {
+    cursor: pointer;
+    background-color: rgb(178, 164, 255);
+    box-shadow: .5rem .5rem 0 rgb(130, 108, 255);
+    transform: translateY(-0.2rem);
+}
+
+.timer-container {
+    display: flex;
+    justify-content: center;
+}
+
+.timer {
+    font-size: 4rem;
+    position: absolute;
+    transition: 500ms;
+    margin-top: 1rem;
+}
+
+.mais {
+    position: absolute;
+    opacity: 0;
+    color: rgb(81, 255, 0);
+    transform: translateX(3rem);
+    transition: 500ms ease-in-out;
+    margin-top: 1rem;
+}
+
+.menos {
+    position: absolute;
+    opacity: 0;
+    color: red;
+    transform: translateX(-3rem);
+    transition: 500ms ease-in-out;
+    margin-top: 1rem;
+}
+
+.timer-anima {
+    transform: scale(1.5);
+}
+
+.mais-anima {
+    transform: translateX(6rem);
+    opacity: 1;
+}
+
+.menos-anima {
+    transform: translateX(-6rem);
+    opacity: 1;
+}
+
+.correto {
+    background-color: rgb(153, 255, 0);
+}
+
+.incorreto {
+    background-color: red;
+}

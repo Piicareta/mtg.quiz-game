@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/app.css">
+    <link rel="stylesheet" href="./assets/css/game.css">
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+    <title>MTG Jogar</title>
+</head>
+<body>
+    <div class="container">
+        <div id="game" class="justify-center flex-column">
+            <h2 id="pergunta"></h2>
+            <div class="escolha-container">
+                <p class="escolha-prefix">A</p>
+                <p class="escolha-texto" data-numero="1"></p>
+            </div>
+            <div class="escolha-container">
+                <p class="escolha-prefix">B</p>
+                <p class="escolha-texto" data-numero="2"></p>
+            </div>
+            <div class="escolha-container">
+                <p class="escolha-prefix">C</p>
+                <p class="escolha-texto" data-numero="3"></p>
+            </div>
+            <div class="escolha-container">
+                <p class="escolha-prefix">D</p>
+                <p class="escolha-texto" data-numero="4"></p>
+            </div>
+            <div class="timer-container">
+                <h2 id="timer" class="timer">TEMPO !</h2>
+                <h2 id="mais" class="mais">+5</h2>
+                <h2 id="menos" class="menos">-3</h2>
+            </div>
+        </div>
+    </div>
+    <script src="./assets/js/game.js"></script>
+</body>
+</html>
