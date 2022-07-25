@@ -32,7 +32,7 @@ setInterval (() => {
 
         localStorage.setItem('ultimoPlacar', placar)
 
-        return window.location.assign('final.html')
+        return window.location.assign('https://piicareta.github.io/mtg.quiz-final/')
     }
 
     timer.textContent = timerContador
